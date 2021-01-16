@@ -1,0 +1,2 @@
+# Principal-Component-Analysis-and-Principal-Component-Regression-Model
+The Machine learning algorithm one of the famous algorithm to used for dimensional reduction, it's mean than to tackle the multicollinearity problem help of Principal Component Analysis called as PCA. Using PCA fit the model using significant Principal component's and fit the model for response variable and PC's. And find the original dataset coefficient using principal component regression coefficient.
